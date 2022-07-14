@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0px;
+}
+.menu{
+    background-color: black;
+    text-align: center;
+}
+.link{
+    display: inline-block;
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    font-family: play;
+    padding: 15px 30px 15px 30px;
+}
+.link:hover{
+    background-color: white;
+    color: black;
+}
+.menu2{
+    margin-top: 100px;
+    background-color: dodgerblue;
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+}
+.link2{
+    font-size: 30px;
+    color: crimson;
+    text-decoration: none;
+    font-family: play;
+    padding: 20px 40px 20px 40px;
+}
+.link2:hover{
+    background-color: aqua;
+    color: blueviolet;
+}
+
